@@ -1,0 +1,7 @@
+H:\GRAFOS\EJERCICIOS\prueva\3\bin\Debug\3.exe.config
+H:\GRAFOS\EJERCICIOS\prueva\3\bin\Debug\3.exe
+H:\GRAFOS\EJERCICIOS\prueva\3\bin\Debug\3.pdb
+H:\GRAFOS\EJERCICIOS\prueva\3\obj\Debug\3.csprojAssemblyReference.cache
+H:\GRAFOS\EJERCICIOS\prueva\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+H:\GRAFOS\EJERCICIOS\prueva\3\obj\Debug\3.exe
+H:\GRAFOS\EJERCICIOS\prueva\3\obj\Debug\3.pdb

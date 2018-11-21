@@ -1,0 +1,7 @@
+H:\GRAFOS\EJERCICIOS\prueva\STRING\bin\Debug\STRING.exe.config
+H:\GRAFOS\EJERCICIOS\prueva\STRING\bin\Debug\STRING.exe
+H:\GRAFOS\EJERCICIOS\prueva\STRING\bin\Debug\STRING.pdb
+H:\GRAFOS\EJERCICIOS\prueva\STRING\obj\Debug\STRING.csprojAssemblyReference.cache
+H:\GRAFOS\EJERCICIOS\prueva\STRING\obj\Debug\STRING.csproj.CoreCompileInputs.cache
+H:\GRAFOS\EJERCICIOS\prueva\STRING\obj\Debug\STRING.exe
+H:\GRAFOS\EJERCICIOS\prueva\STRING\obj\Debug\STRING.pdb

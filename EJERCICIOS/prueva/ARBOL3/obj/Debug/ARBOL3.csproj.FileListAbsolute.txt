@@ -1,0 +1,7 @@
+H:\GRAFOS\EJERCICIOS\prueva\ARBOL3\bin\Debug\ARBOL3.exe.config
+H:\GRAFOS\EJERCICIOS\prueva\ARBOL3\bin\Debug\ARBOL3.exe
+H:\GRAFOS\EJERCICIOS\prueva\ARBOL3\bin\Debug\ARBOL3.pdb
+H:\GRAFOS\EJERCICIOS\prueva\ARBOL3\obj\Debug\ARBOL3.csprojAssemblyReference.cache
+H:\GRAFOS\EJERCICIOS\prueva\ARBOL3\obj\Debug\ARBOL3.csproj.CoreCompileInputs.cache
+H:\GRAFOS\EJERCICIOS\prueva\ARBOL3\obj\Debug\ARBOL3.exe
+H:\GRAFOS\EJERCICIOS\prueva\ARBOL3\obj\Debug\ARBOL3.pdb
